@@ -14,3 +14,8 @@ function happyHolidayTo(name, holiday){
 function holidayCountdown(days, holiday){
   return 'It\'s ${days} days until ${holiday}!'
 }
+
+happyHolidays()
+happyHolidaysTo(Brian)
+happyHolidayTo(Brian, Halloween)
+holidayCountdown(100, Halloween)
