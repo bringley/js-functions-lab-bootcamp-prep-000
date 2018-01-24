@@ -17,5 +17,5 @@ function holidayCountdown(days, holiday){
 
 console.log(happyHolidays())
 console.log(happyHolidaysTo('Brian'))
-happyHolidayTo('Brian', 'Halloween')
-holidayCountdown(100, 'Halloween')
+console.log(happyHolidayTo('Brian', 'Halloween'))
+console.log(holidayCountdown(100, 'Halloween'))
